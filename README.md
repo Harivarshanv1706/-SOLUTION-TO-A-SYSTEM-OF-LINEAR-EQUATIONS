@@ -30,5 +30,5 @@ print(result)
 ![Screenshot 2025-03-13 142242](https://github.com/user-attachments/assets/2e498b13-8fa9-495f-9683-78eb8f4af110)
 
 ## Result: 
-Thus the solutions for the linear equations are successfully solved using python program
+Thus the solutions for the linear equations are successfully solved using python program.
 
