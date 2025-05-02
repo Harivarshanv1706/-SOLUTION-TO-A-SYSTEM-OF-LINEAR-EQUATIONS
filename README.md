@@ -17,7 +17,7 @@ End the program
 #Program to find the solution for the given linear equations.
 #Developed by: HARI VARSHAN V
 #RegisterNumber: 212224230092
-```
+```python
 import numpy as np
 A= np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 B=np.array([-9,4,-1])
@@ -26,8 +26,7 @@ print(result)
 ```
 
 ## Output:
-
-![Screenshot 2025-03-13 142242](https://github.com/user-attachments/assets/2e498b13-8fa9-495f-9683-78eb8f4af110)
+![](<Screenshot 2025-05-02 111024.png>)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
